@@ -137,6 +137,9 @@ This is my first 4-layer board. Planned stack-up:
 - Transparent High-Speed pass-through with a USB hub / bridge IC
 - Enclosure with tamper switch
 
+  ## Video_Summary
+  https://drive.google.com/drive/folders/1eyRKF2PDHu0rflak3cs_pPEw4onvvfwm?usp=sharing
+
 ## 👨‍💻 Team
 
 **Circuit Architects**
